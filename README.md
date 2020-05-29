@@ -58,7 +58,7 @@ Please see the target section down below and try to achieve the items as many as
         ```
 4. Your can only use __Python__ or __PHP__ to implement APIs.
 5. *(Optional)* You __can add more input arguments__ to your APIs to achieve paginaton strategy.
-6. *(Optional)* Use your algorithm to reduce response time when calling the API.
+6. *(Optional)* Use your algorithm to reduce response time when calling the APIs.
 
 ## Deliverable
 
@@ -66,6 +66,7 @@ Please see the target section down below and try to achieve the items as many as
 2. Include a __README.md__ file in __the root of repo__.
 3. Provide your __API spec__, __API URLs__, and __DB schema__ to __README.md__.
 4. *(Optional)* If you are using __AWS__ / __Azure__ / __GCP__, describe what services you are using. 
+5. *(Optional)* Describe how you reduce the response time / improve performance to __README.md__.
 
 ## Notice
 
