@@ -2,7 +2,7 @@
 
 ## Description
 
-Please see the target section down below and try to implement them as many as you can.
+Please see the target section down below and try to achieve the items as many as you can.
 
 ## Target
 
@@ -19,7 +19,6 @@ Please see the target section down below and try to implement them as many as yo
       | lineItem/UsageEndDate | The end date and time for the corresponding line item in UTC, exclusive. The format is YYYY-MM-DDTHH:mm:ssZ. |
       | product/ProductName | The full name of the AWS service. Use this column to filter AWS usage by AWS service. Sample values: AWS Backup, AWS Config, Amazon Registrar, Amazon Elastic File System, Amazon Elastic Compute Cloud |
       
-
 2. Create DB index to enhance query performance.
 3. Make APIs to achieve the following requirements
     1. Get __lineItem/UnblendedCost__ grouping by __product/productname__
@@ -57,16 +56,16 @@ Please see the target section down below and try to implement them as many as yo
                 },
             }
         ```
-4. *(Optional)* You __can add more input arguments__ to your APIs to achieve paginaton strategy.
-5. *(Optional)* Use your algorithm to reduce response time when calling the API.
+4. Your can only use __Python__ or __PHP__ to implement APIs.
+5. *(Optional)* You __can add more input arguments__ to your APIs to achieve paginaton strategy.
+6. *(Optional)* Use your algorithm to reduce response time when calling the API.
 
 ## Deliverable
 
 1. Upload codes to your __GitHub__ and __provide repo URL__.
 2. Include a __README.md__ file in __the root of repo__.
-3. Provide your __API spec__ and __DB schema__ to __README.md__.
-4. Provide your API URLs for calling.
-5. *(Optional)* If you are using __AWS__ / __Azure__ / __GCP__, describe what services you are using. 
+3. Provide your __API spec__, __API URLs__, and __DB schema__ to __README.md__.
+4. *(Optional)* If you are using __AWS__ / __Azure__ / __GCP__, describe what services you are using. 
 
 ## Notice
 
