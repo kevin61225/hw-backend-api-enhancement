@@ -57,7 +57,7 @@ Please see the target section down below and try to implement them as many as yo
                 },
             }
         ```
-4. *(Optional)* You __can add more input arguments__ to your APIs to achieve paginated result.
+4. *(Optional)* You __can add more input arguments__ to your APIs to achieve paginaton strategy.
 5. *(Optional)* Use your algorithm to reduce response time when calling the API.
 
 ## Deliverable
