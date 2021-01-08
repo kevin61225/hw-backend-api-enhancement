@@ -56,7 +56,7 @@ Please see the target section down below and try to achieve the items as many as
                 },
             }
         ```
-4. Your can only use __Python__ or __PHP__ to implement APIs.
+4. Your can only use __Python__ or __C#__ to implement APIs.
 5. *(Optional)* You __can add more input arguments__ to your APIs to achieve paginaton strategy.
 6. *(Optional)* Use your algorithm to reduce response time when calling the APIs.
 
