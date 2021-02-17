@@ -65,7 +65,7 @@ Please see the target section down below and try to achieve the items as many as
 1. Upload codes to your __GitHub__ and __provide repo URL__.
 2. Include a __README.md__ file in __the root of repo__.
 3. Provide your __API spec__, __API URLs__, and __DB schema__ to __README.md__.
-4. Use any kind of framework, e.g. Laravel, CakePHP, Django, Flask.
+4. Use any kind of framework, e.g. ASP.NET 5, Django, Flask.
 5. *(Optional)* If you are using __AWS__ / __Azure__ / __GCP__, describe what services you are using. 
 6. *(Optional)* Describe how you reduce the response time / improve performance to __README.md__.
 
